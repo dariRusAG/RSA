@@ -8,5 +8,5 @@
 4.	Позволяется использование любого языка программирования.
 
 ## Источники
-https://ru.wikipedia.org/wiki/RSA
-https://habr.com/ru/articles/745820/
+- https://ru.wikipedia.org/wiki/RSA
+- https://habr.com/ru/articles/745820/
